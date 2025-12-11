@@ -57,6 +57,18 @@ max_width: 930px
 
 # TODO: add layout settings (single page vs. multi-page)
 
+navbar:
+  - title: "About"
+    url: "/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "CV"
+    url: "/cv/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Contact"
+    url: "/contact/"
+
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
