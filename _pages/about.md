@@ -6,7 +6,7 @@ subtitle: "Political Scientist | Climate Politics, Social Movements & Political 
 
 profile:
   align: right
-  image: "Profilfoto Socialmedia ausschnitt.jpg"
+  image: "profilfoto-socialmedia-ausschnitt.jpg"
   image_circular: true
   more_info: >
     <p>Scuola Normale Superiore</p>
