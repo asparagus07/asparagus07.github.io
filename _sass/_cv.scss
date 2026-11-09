@@ -218,3 +218,80 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
+
+
+/*****************************
+ * CV layout refinements
+ *****************************/
+
+.cv > .card {
+  padding: 1.5rem 1.75rem !important;
+}
+
+.cv > .card > .card-title {
+  margin: 0 0 1.25rem;
+  padding: 0 0 0.65rem;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
+.cv-entry-row {
+  display: grid;
+  grid-template-columns: minmax(125px, 155px) minmax(0, 1fr);
+  column-gap: 1.25rem;
+  align-items: start;
+}
+
+.cv-entry-date {
+  min-width: 0;
+}
+
+.cv-entry-date table {
+  width: 100%;
+  margin: 0;
+}
+
+.cv-entry-date td {
+  padding: 0;
+}
+
+.cv-entry-date .badge {
+  display: block;
+  width: 100%;
+  min-width: 0 !important;
+  white-space: normal;
+  line-height: 1.35;
+  padding: 0.4rem 0.5rem;
+  text-align: center;
+}
+
+.cv-entry-content {
+  min-width: 0;
+}
+
+.cv-entry-content .title {
+  margin: 0 0 0.45rem;
+}
+
+.cv-entry-content table.institution {
+  margin: 0 0 0.65rem;
+}
+
+.cv-entry-content ul.items {
+  padding-left: 1.25rem;
+  margin-bottom: 0.75rem;
+}
+
+@media (max-width: 575px) {
+  .cv > .card {
+    padding: 1rem !important;
+  }
+
+  .cv-entry-row {
+    grid-template-columns: 1fr;
+    row-gap: 0.6rem;
+  }
+
+  .cv-entry-date {
+    max-width: 190px;
+  }
+}
