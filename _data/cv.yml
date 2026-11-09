@@ -1,4 +1,3 @@
-
 - title: General Information
   type: map
   contents:
@@ -50,6 +49,8 @@
     - title: Office Administrator
       institution: Office of Anton Hofreiter, German Bundestag
       year: January 2019 – April 2021
+      description:
+        - "Anton Hofreiter was chair of the Green parliamentary group in the German Bundestag during this period."
 
 - title: Academic Activities & Service
   type: time_table
@@ -57,6 +58,14 @@
     - title: Board Member
       institution: Institute for Protest and Movement Research (ipb)
       year: November 2024 – present
+    - title: Organizer, Politics from Below Colloquium
+      institution: Institute for Protest and Movement Research (ipb)
+      year: November 2025 – present
+      description:
+        - "Organizing a colloquium for scholars working on social movements."
+    - title: Organizer, ipb Annual Conference 2026: "Brain Twisters in Social Movement Research"
+      institution: Institute for Protest and Movement Research (ipb), Humboldt University of Berlin
+      year: October 2026
     - title: Student Representative, Habilitation Committee
       institution: Humboldt University of Berlin
       year: February 2022 – December 2023
@@ -78,11 +87,17 @@
 - title: Conference Presentations
   type: time_table
   contents:
+    - title: "Contesting Coal – How Disruptive Protest Shapes Energy Politics and Corporate Value"
+      institution: ECPR General Conference, Krakow, Poland
+      year: September 2026
+    - title: "Strategic Resistance: How Civil Society Challenges Fossil Fuel Corporations in Climate Political Conflicts"
+      institution: AFPP Conference, Manchester, United Kingdom
+      year: April 2026
     - title: "Does Strategy Matter? Agentic Perspectives on the Contestation of Fossil Fuel Corporations"
-      institution: ipb Annual Conference
+      institution: ipb Annual Conference, Bremen, Germany
       year: October 2025
     - title: "Mobilizing against transnational fossil fuel corporations – Learnings from the anti-fracking movement in Namibia"
-      institution: ipb Annual Conference
+      institution: ipb Annual Conference (online)
       year: October 2024
 
 - title: Scholarships
