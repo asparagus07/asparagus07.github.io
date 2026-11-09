@@ -1,97 +1,117 @@
+
 - title: General Information
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Eva-Lotte Schwarz
+    - name: Current Position
+      value: PhD Candidate in Political Science and Sociology
+    - name: Institution
+      value: Scuola Normale Superiore, Italy
+    - name: Email
+      value: evalotte.schwarz@sns.it
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Sociology and Political Science
+      institution: Scuola Normale Superiore, Florence, Italy
+      year: 2024 – present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Supervisors: Donatella della Porta and Lorenzo Zamponi"
+    - title: MA in Social Sciences
+      institution: Humboldt University of Berlin, Germany
+      year: 2020 – 2024
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+        - "Final grade: 1.0"
+    - title: BA in Social Sciences
+      institution: Humboldt University of Berlin, Germany
+      year: 2017 – September 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - "Final grade: 1.4"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Research Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Climate activism and anti-fossil fuel movements
+    - Transnational mobilization
+    - Qualitative methods and process tracing design
+    - Mixed methods
+
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Office Administrator
+      institution: Executive Department of Strategy, Green Parliamentary Group, German Bundestag
+      year: April 2021 – February 2022
+      description:
+        - Survey analysis
+        - Data organization
+    - title: Office Administrator
+      institution: Office of Anton Hofreiter, German Bundestag
+      year: January 2019 – April 2021
+
+- title: Academic Activities & Service
+  type: time_table
+  contents:
+    - title: Board Member
+      institution: Institute for Protest and Movement Research (ipb)
+      year: November 2024 – present
+    - title: Student Representative, Habilitation Committee
+      institution: Humboldt University of Berlin
+      year: February 2022 – December 2023
+    - title: Student Representative, Appointment Committee
+      institution: Humboldt University of Berlin
+      year: October 2023 – November 2023
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Seminar "Sociology of Teenage Girls"
+      institution: Humboldt University of Berlin
+      year: April 2023 – September 2023
+      description:
+        - Teaching
+        - Development of the seminar syllabus
+        - Teaching organization, including Moodle course setup and the design of feedback and admission procedures
+
+- title: Conference Presentations
+  type: time_table
+  contents:
+    - title: "Does Strategy Matter? Agentic Perspectives on the Contestation of Fossil Fuel Corporations"
+      institution: ipb Annual Conference
+      year: October 2025
+    - title: "Mobilizing against transnational fossil fuel corporations – Learnings from the anti-fracking movement in Namibia"
+      institution: ipb Annual Conference
+      year: October 2024
+
+- title: Scholarships
+  type: time_table
+  contents:
+    - title: PhD Study Scholarship
+      institution: Scuola Normale Superiore
+      year: 2024 – present
+    - title: BA and MA Study Scholarship
+      institution: Heinrich Böll Foundation
+      year: 2018 – 2024
+
+- title: Professional Memberships
+  type: list
+  contents:
+    - International Sociological Association
+    - Institute for Protest and Movement Research (ipb)
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Languages
+      items:
+        - German (C2)
+        - English (C2)
+        - Italian (B1)
+    - title: Research Methods
+      items:
+        - Process tracing (advanced training, MethodsNET Summer School 2025)
+        - Linear and logistic regression (STATA)
+        - Qualitative interviewing
+        - Grounded theory
